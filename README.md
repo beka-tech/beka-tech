@@ -11,3 +11,4 @@
 [![](https://visitcount.itsvg.in/api?id=beka-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=beka-tech&theme=dark" alt="GitHub Streak" /></a>
