@@ -62,7 +62,7 @@
 - 🔥 Building **high-performance full-stack web apps**  
 - 🧠 Deeply exploring **MERN Stack, System Design & Clean Architecture**  
 - 💼 Open for **remote or freelance development roles**  
-- 🧘‍♂️ Obsessed with **discipline, focus, and long coding hours (12h/day)**  
+- 🧘‍♂️ Obsessed with **discipline, focus, and long coding hours **  
 - 🚀 Always improving — one project, one commit at a time  
 
 ---
