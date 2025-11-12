@@ -1,9 +1,7 @@
 <!-- 🌈 Animated Gradient Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=1DE9B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Beka+Aman!;Full-Stack+Developer;MERN+%7C+Java+%7C+Python+Engineer;Focused+on+Deep+Work+%26+Discipline" alt="Typing SVG" />
-</h1>
 
-<h3 align="center">💻 Passionate Full-Stack Developer | MERN | Java | Python</h3>
+
+<h3 align="center">💻 Passionate Full-Stack Developer | JavaScript  | Java | Python</h3>
 
 ---
 
