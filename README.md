@@ -81,8 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beka-tech&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beka-tech&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beka-tech&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beka-tech&layout=compact&theme=tokyonight&hide_border=true">
 </p>
+
 
