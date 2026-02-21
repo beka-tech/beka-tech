@@ -1,29 +1,34 @@
-<h3 align="center">☕ Backend Java Developer | Spring Boot | REST APIs | PostgreSQL</h3>
+<h3 align="center">🤖 AI Backend Engineer | Node.js | REST APIs | PostgreSQL | LLM | RAG</h3>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering%20%7C%20API%20Design%20%7C%20System%20Design-1F222E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-AI%20Backend%20Engineering%20%7C%20API%20Design%20%7C%20LLM%20Integration-1F222E?style=for-the-badge">
 </p>
 
 ---
 
 ### 🧩 Backend Tech Stack
 
-#### ☕ Core
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+#### ⚙️ Core Backend
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🤖 AI & LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/LLM-Integration-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Systems-green?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
 
 #### 🔗 API & Architecture
 ![REST API](https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge)
+![API Development](https://img.shields.io/badge/API-Development-blue?style=for-the-badge)
 
 #### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-Vector%20DB-purple?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![Database Design](https://img.shields.io/badge/DB%20Design-4B8BBE?style=for-the-badge)
 
@@ -32,7 +37,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -47,29 +52,29 @@
 
 ### 🚀 About Me
 
-- ☕ Backend-first developer building **Java + Spring Boot services**
-- 🔗 Designing **scalable REST APIs**
-- 🗄️ Strong focus on **PostgreSQL & relational data modeling**
-- 🧠 Studying **System Design & Clean Architecture**
-- ⚙️ Building **production-style backend applications**
-- 💼 Open for **Java Backend / Spring Boot roles**
-- 🚀 Shipping endpoints, not excuses
+- 🤖 AI Backend Engineer building **LLM-powered backend systems**
+- ⚙️ Developing scalable **Node.js & Express REST APIs**
+- 🗄️ Strong focus on **PostgreSQL & vector databases (pgvector)**
+- 🧠 Building **RAG pipelines & LLM integrations**
+- ⚡ Creating **production-ready AI backend architectures**
+- 💼 Open for **AI Backend / Node.js / LLM roles**
+- 🚀 Building intelligent systems, not just endpoints
 
 ---
 
 ### 📚 Current Focus
 
-- Spring Boot Advanced Features  
-- API Security (JWT / OAuth)  
-- PostgreSQL Performance Tuning  
-- Microservices Patterns  
-- Backend System Design  
+- LLM API Integration  
+- Retrieval-Augmented Generation (RAG)  
+- PostgreSQL + pgvector  
+- AI Backend Architecture  
+- Scalable REST API Design  
 
 ---
 
 ### 🧠 Philosophy
 
-> "Reliable backend systems are built with discipline, structure, and clarity."
+> "Intelligent systems start with solid backend architecture."
 
 ---
 
@@ -83,5 +88,3 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beka-tech&layout=compact&theme=tokyonight&hide_border=true">
 </p>
-
-
